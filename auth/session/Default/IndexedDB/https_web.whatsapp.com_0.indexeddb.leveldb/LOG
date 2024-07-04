@@ -1,0 +1,41 @@
+2024/03/19-14:21:33.301 1740 Reusing MANIFEST C:\Development\ReynaBOT-master\auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-14:21:33.302 1740 Recovering log #2882
+2024/03/19-14:21:33.328 1740 Reusing old log C:\Development\ReynaBOT-master\auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002882.log 
+2024/03/19-14:22:34.607 1740 Level-0 table #2892: started
+2024/03/19-14:22:34.647 1740 Level-0 table #2892: 1019807 bytes OK
+2024/03/19-14:22:34.649 1740 Delete type=0 #2882
+2024/03/19-14:22:34.780 1740 Compacting 1@1 + 6@2 files
+2024/03/19-14:22:34.870 1740 Generated table #2893@1: 33954 keys, 2207100 bytes
+2024/03/19-14:22:34.912 1740 Generated table #2894@1: 2497 keys, 2161897 bytes
+2024/03/19-14:22:34.950 1740 Generated table #2895@1: 10199 keys, 2180808 bytes
+2024/03/19-14:22:35.041 1740 Generated table #2896@1: 24978 keys, 2256069 bytes
+2024/03/19-14:22:35.128 1740 Generated table #2897@1: 83509 keys, 2230083 bytes
+2024/03/19-14:22:35.150 1740 Generated table #2898@1: 24673 keys, 530863 bytes
+2024/03/19-14:22:35.150 1740 Compacted 1@1 + 6@2 files => 11566820 bytes
+2024/03/19-14:22:35.151 1740 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/03/19-14:22:35.152 1740 Delete type=2 #2884
+2024/03/19-14:22:35.152 1740 Delete type=2 #2885
+2024/03/19-14:22:35.152 1740 Delete type=2 #2886
+2024/03/19-14:22:35.152 1740 Delete type=2 #2887
+2024/03/19-14:22:35.152 1740 Delete type=2 #2888
+2024/03/19-14:22:35.152 1740 Delete type=2 #2889
+2024/03/19-14:22:35.152 1740 Delete type=2 #2892
+2024/03/19-14:27:29.025 1740 Level-0 table #2900: started
+2024/03/19-14:27:29.060 1740 Level-0 table #2900: 1449175 bytes OK
+2024/03/19-14:27:29.062 1740 Delete type=0 #2891
+2024/03/19-14:27:44.945 1740 Compacting 1@1 + 6@2 files
+2024/03/19-14:27:45.026 1740 Generated table #2901@1: 35170 keys, 2220171 bytes
+2024/03/19-14:27:45.056 1740 Generated table #2902@1: 2487 keys, 2162978 bytes
+2024/03/19-14:27:45.094 1740 Generated table #2903@1: 9632 keys, 2177661 bytes
+2024/03/19-14:27:45.177 1740 Generated table #2904@1: 25605 keys, 2257587 bytes
+2024/03/19-14:27:45.258 1740 Generated table #2905@1: 79899 keys, 2223837 bytes
+2024/03/19-14:27:45.281 1740 Generated table #2906@1: 28706 keys, 610818 bytes
+2024/03/19-14:27:45.282 1740 Compacted 1@1 + 6@2 files => 11653052 bytes
+2024/03/19-14:27:45.282 1740 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/03/19-14:27:45.283 1740 Delete type=2 #2893
+2024/03/19-14:27:45.283 1740 Delete type=2 #2894
+2024/03/19-14:27:45.283 1740 Delete type=2 #2895
+2024/03/19-14:27:45.283 1740 Delete type=2 #2896
+2024/03/19-14:27:45.283 1740 Delete type=2 #2897
+2024/03/19-14:27:45.283 1740 Delete type=2 #2898
+2024/03/19-14:27:45.283 1740 Delete type=2 #2900

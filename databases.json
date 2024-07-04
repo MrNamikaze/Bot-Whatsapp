@@ -1,0 +1,173 @@
+{
+  "apikey": "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",
+  "owners": [
+    "6288217071996@c.us",
+    "6289653945341@c.us"
+  ],
+  "premiums": [
+    "6288217071996@c.us",
+    "6289653945341@c.us"
+  ],
+  "users": {
+    "6288217071996@c.us": {
+      "name": "Syahrul Ramadhan",
+      "number": "6288217071996",
+      "numberId": "6288217071996@c.us",
+      "level": 0
+    }
+  },
+  "plugins": {
+    "hidetag": {
+      "cmd": [
+        "hidetag"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "menu": {
+      "cmd": [
+        "menu"
+      ],
+      "tag": "info",
+      "info": ""
+    },
+    "owner": {
+      "cmd": [
+        "owner"
+      ],
+      "tag": "info",
+      "info": ""
+    },
+    "stiker": {
+      "cmd": [
+        "s",
+        "stiker",
+        "sticker"
+      ],
+      "tag": "stiker",
+      "info": ""
+    },
+    "totag": {
+      "cmd": [
+        "totag"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "petakrl": {
+      "cmd": [
+        "petakrl"
+      ],
+      "tag": "krl",
+      "info": ""
+    },
+    "jadwalkereta": {
+      "cmd": [
+        "jadwalkereta"
+      ],
+      "tag": "krl",
+      "info": ""
+    },
+    "viewonce": {
+      "cmd": [
+        "lihat"
+      ],
+      "tag": "lainnya",
+      "info": ""
+    },
+    "setwelcome": {
+      "cmd": [
+        "setwelcome"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "welcome": {
+      "cmd": [
+        "welcome"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "leave": {
+      "cmd": [
+        "leave"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "setleave": {
+      "cmd": [
+        "setleave"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "deletepesan": {
+      "cmd": [
+        "d",
+        "delete"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "promote": {
+      "cmd": [
+        "promote"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "demote": {
+      "cmd": [
+        "demote"
+      ],
+      "tag": "grup",
+      "info": ""
+    },
+    "ytdownload": {
+      "cmd": [
+        "ytdownload"
+      ],
+      "tag": "info",
+      "info": ""
+    },
+    "ytmp3": {
+      "cmd": [
+        "ytmp3"
+      ],
+      "tag": "info",
+      "info": ""
+    },
+    "ytmp4": {
+      "cmd": [
+        "ytmp4"
+      ],
+      "tag": "info",
+      "info": ""
+    }
+  },
+  "cmds": [
+    "menu",
+    "owner",
+    "s",
+    "stiker",
+    "sticker",
+    "hidetag",
+    "totag",
+    "petakrl",
+    "jadwalkereta",
+    "lihat",
+    "setwelcome",
+    "welcome",
+    "leave",
+    "setleave",
+    "d",
+    "delete",
+    "promote",
+    "demote",
+    "ytdownload",
+    "ytmp3",
+    "ytmp4"
+  ]
+}

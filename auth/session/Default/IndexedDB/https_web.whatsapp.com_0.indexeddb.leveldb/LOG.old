@@ -1,0 +1,22 @@
+2024/03/19-14:20:47.605 57f0 Reusing MANIFEST C:\Development\ReynaBOT-master\auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-14:20:47.606 57f0 Recovering log #2872
+2024/03/19-14:20:47.632 57f0 Reusing old log C:\Development\ReynaBOT-master\auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002872.log 
+2024/03/19-14:21:05.078 57f0 Level-0 table #2883: started
+2024/03/19-14:21:05.114 57f0 Level-0 table #2883: 1220987 bytes OK
+2024/03/19-14:21:05.115 57f0 Delete type=0 #2872
+2024/03/19-14:21:05.125 57f0 Compacting 1@1 + 6@2 files
+2024/03/19-14:21:05.227 57f0 Generated table #2884@1: 40523 keys, 2211990 bytes
+2024/03/19-14:21:05.283 57f0 Generated table #2885@1: 2503 keys, 2162685 bytes
+2024/03/19-14:21:05.347 57f0 Generated table #2886@1: 8734 keys, 2172231 bytes
+2024/03/19-14:21:05.442 57f0 Generated table #2887@1: 29394 keys, 2269010 bytes
+2024/03/19-14:21:05.546 57f0 Generated table #2888@1: 75693 keys, 2218135 bytes
+2024/03/19-14:21:05.583 57f0 Generated table #2889@1: 32960 keys, 705168 bytes
+2024/03/19-14:21:05.583 57f0 Compacted 1@1 + 6@2 files => 11739219 bytes
+2024/03/19-14:21:05.583 57f0 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2875
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2876
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2877
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2878
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2879
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2880
+2024/03/19-14:21:05.584 57f0 Delete type=2 #2883

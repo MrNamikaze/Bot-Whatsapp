@@ -1,0 +1,4 @@
+[0509/025155.201:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0509/025155.202:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0509/025155.202:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[0509/025155.202:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage-select-url'.", source:  (0)
