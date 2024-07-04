@@ -1,0 +1,56 @@
+{
+  "name": "BOT OF ZODIAC",
+  "version": "1.0.0",
+  "description": "WhatsApp BOT by @syahrul_8974",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syahrul_8974",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-phonenumber": "^5.5.0",
+    "axios": "^1.6.2",
+    "chalk": "^5.2.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "lowdb": "^6.0.0",
+    "moment-timezone": "^0.5.43",
+    "mysql": "^2.18.1",
+    "nhentai-api": "^3.4.3",
+    "nhentai-js": "^4.0.0",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1",
+    "puppeteer": "^19.11.1",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "syntax-error": "^1.4.0",
+    "url": "^0.11.0",
+    "whatsapp-web.js": "^1.19.5",
+    "youtube-mp3-downloader": "^0.7.11",
+    "ytdl-core": "^4.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "bot-api",
+    "whatsapp",
+    "whatsapp-web",
+    "whatsapp-bot",
+    "whatsapp-api",
+    "whatsapp-web-api",
+    "whatsapp-web-js",
+    "whatsapp-bot-api",
+    "reyna-bot",
+    "reynabot"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
